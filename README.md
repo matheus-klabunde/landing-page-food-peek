@@ -6,7 +6,7 @@ A Food Peek é uma landing page direta e objetiva. <br/>
 
 <p align="center">
   
-  <img alt="preview do projeto landing page food peek" src="./github/preview.png" width="100%">
+  <img alt="preview do projeto landing page food peek" src=".github/preview.png" width="100%">
 </p>
 
 <p align="center"> Acesse o projeto finalizado  <a href="https://matheus-klabunde.github.io/landing-page-food-peek/">aqui</a>
